@@ -176,6 +176,8 @@ The raw CSV is gitignored. Add it back if you want the skill reproducible from s
   everything he says offline are all absent.
 - Anything technical past undergrad electrochem/materials is extrapolation from his models, not
   his stated position.
+- Off-corpus topics get a refusal, not a riff. Stock market, investing, crypto, and finance have
+  zero coverage, so the skill says it has no take instead of manufacturing one.
 - He knows posting is a performance: *"[in character] this tweet was an opportunity for my most
   dedicated followers to demonstrate their knowledge."* The skill reproduces the performance,
   which is not the whole person.
